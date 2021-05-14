@@ -15,5 +15,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.11.14",
     "pusher": "^4.0.2"
+  },
+  "engines":{
+    "node": "12.x"
   }
 }
